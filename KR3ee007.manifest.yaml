@@ -24,10 +24,10 @@ assets:
   - {seq: 4, filename: KR3ee007_004.yaml, hash: 'sha256:a6597ba5fb7366682356251b7582e88ebfc840cef73fe3fdaf50db252061df34'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ee007_000.markers.yaml, hash: 'sha256:200ec50ff44350c47b106a18624f5bfc1df3f1367b4e996295b4d177b2321571'}
-  - {seq: 1, role: markers, filename: assets/KR3ee007_001.markers.yaml, hash: 'sha256:3e5f786bb1db89525f7ce45bd715de9f80c9eca8cf441ab765330a13e5336d37'}
-  - {seq: 2, role: markers, filename: assets/KR3ee007_002.markers.yaml, hash: 'sha256:531e99c340fb8982b9fc63c31275cd78e7dd3938c71b2d645bae5aac59092f51'}
-  - {seq: 3, role: markers, filename: assets/KR3ee007_003.markers.yaml, hash: 'sha256:173652ffa2dcb33063b8977e6f7168d7419a84f1f356aaee5d415ad0ec13282e'}
-  - {seq: 4, role: markers, filename: assets/KR3ee007_004.markers.yaml, hash: 'sha256:3f198c2032bb3eb112850d60f395175a18c389cb25c8c2a3fe7d49e965c5883a'}
+  - {seq: 1, role: markers, filename: assets/KR3ee007_001.markers.yaml, hash: 'sha256:6901190bc325e15bcc5adf0dc6678d7c4b437babfc1065c30108d8a716e21974'}
+  - {seq: 2, role: markers, filename: assets/KR3ee007_002.markers.yaml, hash: 'sha256:e82b688ebe149614354db783b8fa78ac4723062f21ffc864ff977d55911cc11b'}
+  - {seq: 3, role: markers, filename: assets/KR3ee007_003.markers.yaml, hash: 'sha256:7aa5ad42c847b9ca4075fa4440f5ba5525d93f4dfa9ae8b102fd8f1d4f8e7ece'}
+  - {seq: 4, role: markers, filename: assets/KR3ee007_004.markers.yaml, hash: 'sha256:d9f4600776523787c5d287dbcdb7378a686aa8148abbaf9f13564dc738a0db15'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2749,7 +2749,7 @@ table_of_contents:
   label: 禁灸穴
   type: section
   level: 2
-hash: sha256:da97fc423e47fa1acb8942c8feacfa3e9e52874e28593d3a93ece896e4070ac7
+hash: sha256:7906ee1b946bd70e3e32b459002ff8e976668f70904206952a475e79a8e19b19
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
