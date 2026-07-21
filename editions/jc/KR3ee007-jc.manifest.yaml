@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ee007_000-jc.yaml, hash: 'sha256:e6458a368eff340cf1a8b96e986a4521a0a69de30d0f885847efe909285d0128'}
+  - {seq: 0, filename: KR3ee007_000-jc.yaml, hash: 'sha256:5b1be64a7028947441a67dc1420c7e0f337e0eb00bc94cc4e3b4afc720ca4f3f'}
   - {seq: 1, filename: KR3ee007_001-jc.yaml, hash: 'sha256:518617d463c8e525f2fbb3894ce6f5a58c5d85166e899090146864df18865312'}
   - {seq: 2, filename: KR3ee007_002-jc.yaml, hash: 'sha256:2de254be98746d0ebc046505254897809f7ecca68c8bb2a57ca96b059be2972d'}
   - {seq: 3, filename: KR3ee007_003-jc.yaml, hash: 'sha256:05460c7bd2993bef0d94bd79abf27868747efb0305744f5fde59bedea5383d76'}
   - {seq: 4, filename: KR3ee007_004-jc.yaml, hash: 'sha256:44098d867ce3053872022a40d5fa7ec3eb73eaa8f106ddbdb6fb8d6ab3075005'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee007_000-jc.markers.yaml, hash: 'sha256:e19d7b244e68f8d6ce147040918976250fffc0dfb08da2fe57890b6faa6f184c'}
+  - {seq: 0, role: markers, filename: assets/KR3ee007_000-jc.markers.yaml, hash: 'sha256:ecaa033372b840aaf9a1fea5fc06af8ac8d9d74ad01892729f73fcf4db981223'}
   - {seq: 1, role: markers, filename: assets/KR3ee007_001-jc.markers.yaml, hash: 'sha256:61b5d828cdc1d9361663ad3c702d1ece578a530c49bca1a1e1db6906b0e83ef1'}
   - {seq: 2, role: markers, filename: assets/KR3ee007_002-jc.markers.yaml, hash: 'sha256:f05e6830f2a81c97067c71543a9e15f6ab7813e649fa86fccc6ac11a5b2eb0e6'}
   - {seq: 3, role: markers, filename: assets/KR3ee007_003-jc.markers.yaml, hash: 'sha256:48ac13d124560cb03577a41fee92fbbbe256553bf672aa8098fc612abd716738'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ee007_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 337
   label: 序
@@ -2749,4 +2749,4 @@ table_of_contents:
   label: 禁灸穴
   type: section
   level: 2
-hash: sha256:5c008ecaf3d305781e637e31ce58048807b1a04cea2ce5cd9a0a4ad4475e4548
+hash: sha256:429c4c3a6247731bf9f4c18faf8c6bfa900b90a434961649f1e676fd68f21096
